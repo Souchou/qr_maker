@@ -5,7 +5,7 @@ from PIL import Image
 ways = raw_input('from file, enter 1; from text, enter 2: ')
 
 if ways == '1':
-    input = raw_input('input the filename to be chaned here: ')
+    input = raw_input('input the filename(and file path) to be chaned here: ')
     f = open(input)
     file = f.read()
 
