@@ -15,7 +15,7 @@ pip install qrcode
 
 Usage:
 
-1. Copy the codes as a file named anything you want.
+1. Copy the codes and save as a file named anything you want.
 
 2. Open bash shell and cd to the directory
 
