@@ -23,7 +23,8 @@ qr = qrcode.QRCode(
 qr.add_data(file)
 qr.make(fit=True)
 img = qr.make_image()
-file.close()
+if ways == '1':
+    f.close()
 
 
 iconadd = raw_input('need an icon? y/n: ')
