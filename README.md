@@ -9,9 +9,11 @@ Install python2.7
 
 Install Relied packages:
 
-pip install Pillow
+  install libjpeg
 
-pip install qrcode
+  install Pillow
+
+  install qrcode
 
 Usage:
 
